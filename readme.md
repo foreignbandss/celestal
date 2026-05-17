@@ -1,9 +1,7 @@
 ![celestal](https://ik.imagekit.io/l7uslhlci/IMG_4027.png)
 
-<h1 align="center">Celestal </h1>
+<h1 align="center">Celestal (Not Worked On) </h1>
 
-
-# Not Worked On
 
 Welcome to the official Celestal repo, where you can unleash the full ability of the internet while being locked down on a device. Celestal provides the future-proofing and reliability of ScramJet with the feel of ultraviolet to create the best proxy engine. It is a sucsessor to scramjet due to all the features it provides that scramjet does not. Celestal can load just about anything in the browser witn no restrictions including OAuth and Capachas because of the build in Chromium Identifier which allows these requests to fully go through. Do Not Expect Capachas To Work With Large Internet Traffic. Celestal Also Includes URL-Encoding. Celestal Was Built From Scratch But Insprired By ScramJet and UltraViolet. Celestal is currently in early development and will eventually be dominating.
 
